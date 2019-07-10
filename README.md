@@ -8,4 +8,26 @@ This app provides an overview of the ticket information, including ID, technicia
 Increase first contact resolution by understanding the technician workflow in relation to the newly formed Internal Support team, and to decrease the overall impact of tickets made from chat.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 written with create-react-app
